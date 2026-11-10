@@ -21,6 +21,11 @@
 * *（可选）附上你从零手搓的 Mini-GPT 训练的 Loss 曲线图，展示对底层 Transformer 的理解。*
 https://github.com/2116980016/Mini-RAG-QA-System/blob/fe26b4f296f2707cd11d474f5a5f040c87f4fda2/assets/loss_curve.png
 
+## 📊 评估指标 (Baseline)
+在自建的 10 题评测集上，纯向量检索的 Top-3 命中率为 60%，无据拒答率为 80%。
+![基线评测结果]
+https://github.com/2116980016/Mini-RAG-QA-System/blob/b6ed77d5ab81eb89ec9f1b2472aafd077ff5cae8/assets/baseline_eval.png
+
 ## 📝 未来规划
 - [ ] 引入 BM25 + 向量混合检索（Hybrid Search），提升专有名词召回率。
 - [ ] 引入 bge-reranker 模型进行重排。
