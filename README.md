@@ -26,3 +26,6 @@
 - [ ] 引入 bge-reranker 模型进行重排。
 - [ ] 添加 Gradio Web 界面。
 - [ ] 构建 100+ 问答对评测集，量化统计准确率和幻觉率。
+
+##界面演示：基于 FAISS 检索与 GLM-4 生成，支持引用溯源。”
+- [ ] https://github.com/2116980016/Mini-RAG-QA-System/blob/main/image.png
