@@ -19,7 +19,7 @@
 ## 📊 实验结果
 * 成功跑通 RAG 全链路，检索结果准确，模型能够输出带有 `[片段1]` 的溯源回答。
 * *（可选）附上你从零手搓的 Mini-GPT 训练的 Loss 曲线图，展示对底层 Transformer 的理解。*
-https://github.com/2116980016/Mini-RAG-QA-System/blob/main/loss_curve.png
+https://github.com/2116980016/Mini-RAG-QA-System/blob/fe26b4f296f2707cd11d474f5a5f040c87f4fda2/assets/loss_curve.png
 
 ## 📝 未来规划
 - [ ] 引入 BM25 + 向量混合检索（Hybrid Search），提升专有名词召回率。
