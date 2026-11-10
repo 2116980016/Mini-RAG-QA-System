@@ -28,4 +28,4 @@ https://github.com/2116980016/Mini-RAG-QA-System/blob/main/loss_curve.png
 - [ ] 构建 100+ 问答对评测集，量化统计准确率和幻觉率。
 
 ##界面演示：基于 FAISS 检索与 GLM-4 生成，支持引用溯源。”
-- [ ] https://github.com/2116980016/Mini-RAG-QA-System/blob/main/image.png
+- [ ] https://github.com/2116980016/Mini-RAG-QA-System/blob/eb48d8891b94aca4be677fa3bae22c5c63d81ccb/assets/demo.png
