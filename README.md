@@ -35,6 +35,7 @@
 ## 🖥️ 界面演示 & 底层探索
 基于 FAISS 检索与大模型生成，支持引用溯源的 Web 界面（Gradio）：
 ![系统界面截图](./assets/demo.png)
+![系统界面截图](./assets/image.png)
 
 从零手搓字符级 Mini-GPT 的 Loss 曲线图，深入理解 Transformer 架构：
 ![Loss曲线](./assets/loss_curve.png)
