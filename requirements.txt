@@ -1,0 +1,13 @@
+# 说明：本文件由 requirements,txt 更正而来（原文件名有逗号，pip 无法识别）
+# 建议用 Python 3.10+ 创建虚拟环境后安装
+langchain>=0.3
+langchain-community>=0.3
+langchain-openai>=0.2
+langchain-text-splitters>=0.3
+faiss-cpu>=1.8
+rank-bm25>=0.2.2
+sentence-transformers>=3.0
+zhipuai>=2.1
+python-dotenv>=1.0
+numpy>=1.26
+gradio>=4.44

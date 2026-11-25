@@ -1,0 +1,19 @@
+# 密钥与本地配置
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 向量库与产物（体积大，不入库）
+faiss_index/
+vectorstore/
+*.log
+
+# 编辑器
+.vscode/
+.idea/
